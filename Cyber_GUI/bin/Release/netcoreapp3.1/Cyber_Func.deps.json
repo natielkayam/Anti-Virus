@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cyber_Func/1.0.0": {
+        "runtime": {
+          "Cyber_Func.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cyber_Func/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

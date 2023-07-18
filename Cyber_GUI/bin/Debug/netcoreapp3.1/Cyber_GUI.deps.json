@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cyber_GUI/1.0.0": {
+        "dependencies": {
+          "Cyber_Func": "1.0.0"
+        },
+        "runtime": {
+          "Cyber_GUI.dll": {}
+        }
+      },
+      "Cyber_Func/1.0.0": {
+        "runtime": {
+          "Cyber_Func.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cyber_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cyber_Func/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
