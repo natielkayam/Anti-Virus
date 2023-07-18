@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cyber_Func": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

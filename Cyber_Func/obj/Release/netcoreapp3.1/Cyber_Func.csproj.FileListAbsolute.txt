@@ -1,0 +1,14 @@
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.exe
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.deps.json
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.runtimeconfig.json
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.runtimeconfig.dev.json
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.dll
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\bin\Release\netcoreapp3.1\Cyber_Func.pdb
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.AssemblyInfoInputs.cache
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.AssemblyInfo.cs
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.csproj.CoreCompileInputs.cache
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.dll
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.pdb
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.genruntimeconfig.cache
+C:\Users\NE185029\source\repos\Cyber_Func\Cyber_Func\obj\Release\netcoreapp3.1\Cyber_Func.csproj.AssemblyReference.cache
